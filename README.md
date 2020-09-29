@@ -1,12 +1,7 @@
 <h1>Hi, I'm Lucas</h1>
 <h2>Welcome to my Github</h2>
 <h3>I'm a Javascript and Python programmer ... for now</h3>
-
-<h4>I use Javascript on the back-end and front-end</h4>
-
-<p>let javascriptFrameworks = ['React','Angular']</p>
-
-<img src='https://giphy.com/gifs/NHUONhmbo448/html5'>
+<img src='cop.png'>
 
 <!--
 **JoseLucasapp/JoseLucasapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

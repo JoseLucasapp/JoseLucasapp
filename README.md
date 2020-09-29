@@ -1,4 +1,4 @@
-<h1>hi visitor</h1>
+<h1>Hi visitor, here a little about me</h1>
 <img src='GITHUB.png'>
 
 <!--

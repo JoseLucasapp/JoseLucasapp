@@ -1,7 +1,5 @@
-<h1>Hi, I'm Lucas</h1>
-<h2>Welcome to my Github</h2>
-<h3>I'm a Javascript and Python programmer ... for now</h3>
-<img src='cop.png'>
+<h1>hi visitor</h1>
+<img src='GITHUB.png'>
 
 <!--
 **JoseLucasapp/JoseLucasapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

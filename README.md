@@ -1,6 +1,4 @@
 <h1>Hi visitor, here a little about me</h1>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/)](https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jlgf.profissional@gmail.com)
 <img src='GITHUB.png'>
 
 <!--

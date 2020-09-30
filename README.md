@@ -1,4 +1,7 @@
 <h1>Hi visitor, here a little about me</h1>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jlgf.profissional@gmail.com)
+
 <img src='GITHUB.png'>
 
 <!--

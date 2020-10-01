@@ -10,8 +10,8 @@
 </ul>
 <h3>My posted projects</h3>
 <ul>
-  <li><a href='https://brl-currency-converter.vercel.app/'>Currency prices against the BRL</a><a href='https://github.com/JoseLucasapp/BRL-currency-converter'>Repository</a></li>
-  <li><a href='https://joselucasapp.github.io/Tic-tac-toe-game/'>Tic Tac Toe</a>, <a href='https://github.com/JoseLucasapp/Tic-tac-toe-game'>Repository</a></li>
+  <li><a href='https://brl-currency-converter.vercel.app/'>Currency prices against the BRL</a>, (<a href='https://github.com/JoseLucasapp/BRL-currency-converter'>Repository</a>)</li>
+  <li><a href='https://joselucasapp.github.io/Tic-tac-toe-game/'>Tic Tac Toe</a>, (<a href='https://github.com/JoseLucasapp/Tic-tac-toe-game'>Repository</a>)</li>
 </ul>
 <!--
 **JoseLucasapp/JoseLucasapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,6 +13,7 @@
   <li><a href='https://brl-currency-converter.vercel.app/'>Currency prices against the BRL</a>, (<a href='https://github.com/JoseLucasapp/currency-prices-against-the-BRL'>Repository</a>)</li>
   <li><a href='https://joselucasapp.github.io/Tic-tac-toe-game/'>Tic Tac Toe</a>, (<a href='https://github.com/JoseLucasapp/Tic-tac-toe-game'>Repository</a>)</li>
 </ul>
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joselucasapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JoseLucasapp/JoseLucasapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

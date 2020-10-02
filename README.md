@@ -8,6 +8,7 @@
   <li>I use the React and Angular Frameworks</li>
   <li>i also work in back end with nodeJS</li>
 </ul>
+<img src='languages.png'>
 <h3>My posted projects</h3>
 <ul>
   <li><a href='https://brl-currency-converter.vercel.app/'>Currency prices against the BRL</a>, (<a href='https://github.com/JoseLucasapp/currency-prices-against-the-BRL'>Repository</a>)</li>

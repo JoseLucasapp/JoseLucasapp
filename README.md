@@ -6,7 +6,8 @@
 <ul>
   <li>I a Javascript and Python programmer</li>
   <li>I use the React and Angular Frameworks</li>
-  <li>i also work in back end with nodeJS</li>
+  <li>I also work in back end with nodeJS</li>
+  <li>I also like to play with other languages, like C#, Java and others</li>
 </ul>
 <img src='languages.png'>
 <h3>My posted projects</h3>

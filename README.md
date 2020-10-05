@@ -13,16 +13,16 @@
 <details>
   <summary>My posted projects</summary>
 
-  [Tic Tac Toe](https://joselucasapp.github.io/Tic-tac-toe-game/)
+  [Tic Tac Toe](https://joselucasapp.github.io/Tic-tac-toe-game/)<br>
   [Currency prices against the BRL](https://brl-currency-converter.vercel.app/)
 </details>
 
 <details>
   <summary>How to find me: </summary>
 
-  [Instagram](https://www.instagram.com/jlucasgf/?hl=pt-br)
-  [CodePen](https://codepen.io/joselucasapp)
-  [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/)
+  [Instagram](https://www.instagram.com/jlucasgf/?hl=pt-br)<p> - </p>
+  [CodePen](https://codepen.io/joselucasapp)<p> - </p>
+  [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/)<p> - </p>
   [Repl.it](https://repl.it/@JoseLucasapp)
 </details>
 <!--

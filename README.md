@@ -20,9 +20,9 @@
 <details>
   <summary>How to find me: </summary>
 
-  [Instagram](https://www.instagram.com/jlucasgf/?hl=pt-br)<p> - </p>
-  [CodePen](https://codepen.io/joselucasapp)<p> - </p>
-  [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/)<p> - </p>
+  [Instagram](https://www.instagram.com/jlucasgf/?hl=pt-br)-
+  [CodePen](https://codepen.io/joselucasapp)-
+  [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/)-
   [Repl.it](https://repl.it/@JoseLucasapp)
 </details>
 <!--

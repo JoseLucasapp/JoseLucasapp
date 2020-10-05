@@ -8,23 +8,24 @@
   <li>I also like to play with other languages, like C#, Java and others</li>
 </ul>
 
-<img src='languages.png'>
-
 <details>
   <summary>My posted projects</summary>
 
-  [Tic Tac Toe](https://joselucasapp.github.io/Tic-tac-toe-game/)<br>
-  [Currency prices against the BRL](https://brl-currency-converter.vercel.app/)
+   [Tic Tac Toe](https://joselucasapp.github.io/Tic-tac-toe-game/)<br>
+   [Currency prices against the BRL](https://brl-currency-converter.vercel.app/)
 </details>
 
 <details>
   <summary>How to find me: </summary>
 
-  [Instagram](https://www.instagram.com/jlucasgf/?hl=pt-br) -
+   [Instagram](https://www.instagram.com/jlucasgf/?hl=pt-br) -
   [CodePen](https://codepen.io/joselucasapp) -
   [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/) -
   [Repl.it](https://repl.it/@JoseLucasapp)
 </details>
+
+
+<img src='languages.png'>
 <!--
 **JoseLucasapp/JoseLucasapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

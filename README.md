@@ -1,4 +1,4 @@
-<h1>Hi visitor!, I'm Lucas.</h1>
+<h1> :octocat: Hi visitor!, I'm Lucas.</h1>
 
 <h3>Here a little about me:</h3>
 <ul>
@@ -18,7 +18,7 @@
 <details>
   <summary>How to find me: </summary>
 
-   [Instagram](https://www.instagram.com/jlucasgf/?hl=pt-br) -
+  [Instagram](https://www.instagram.com/jlucasgf/?hl=pt-br) -
   [CodePen](https://codepen.io/joselucasapp) -
   [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/) -
   [Repl.it](https://repl.it/@JoseLucasapp)

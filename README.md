@@ -1,11 +1,12 @@
-<h1> :octocat: Hi visitor!, I'm Lucas.</h1>
+<h1>Hi visitor!, I'm Lucas.</h1>
 
 <h3>Here a little about me:</h3>
 <ul>
-  <li>I a Javascript and Python programmer</li>
-  <li>I use the React and Angular Frameworks</li>
-  <li>I also work in back end with nodeJS</li>
-  <li>I also like to play with other languages, like C#, Java and others</li>
+  <li> :round_pushpin: I from Brazil</li>
+  <li> :computer: I a Javascript and Python programmer</li>
+  <li> :wrench: I use the React and Angular Frameworks</li>
+  <li> :hammer: I also work in back end with nodeJS</li>
+  <li> :game_die: I also like to play with other languages, like C#, Java and others</li>
 </ul>
 
 <details>

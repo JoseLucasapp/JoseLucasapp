@@ -25,9 +25,10 @@
   [Repl.it](https://repl.it/@JoseLucasapp)
 </details>
 
+<img src='languages.png'/>
+
 ![Jose Lucas github stats](https://github-readme-stats.vercel.app/api?username=joselucasapp&show_icons=true&theme=radical)
 
-<img src='languages.png'>
 <!--
 **JoseLucasapp/JoseLucasapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

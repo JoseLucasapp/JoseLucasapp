@@ -11,12 +11,10 @@
 
 <details>
   <summary>My posted projects</summary>
-
-   <a href='https://joselucasapp.github.io/Tic-tac-toe-game/' target='_blank'>[Tic Tac Toe]</a><br>
-   <a href='https://brl-currency-converter.vercel.app/' target='_blank'>Currency prices against the BRL</a>
+  
+  [Tic Tac Toe](https://joselucasapp.github.io/Tic-tac-toe-game/)<br>
+  [Currency prices against the BRL](https://brl-currency-converter.vercel.app/)
 </details>
-[Tic Tac Toe](https://joselucasapp.github.io/Tic-tac-toe-game/)<br>
-[Currency prices against the BRL](https://brl-currency-converter.vercel.app/)
 
 <details>
   <summary>How to find me: </summary>

@@ -3,10 +3,10 @@
 <h3>Here a little about me:</h3>
 <ul>
   <li> :round_pushpin: I from Brazil</li>
-  <li> :computer: I a Javascript and Python programmer</li>
-  <li> :wrench: I use the React and Angular Frameworks</li>
-  <li> :hammer: I also work in back end with nodeJS</li>
-  <li> :game_die: I also like to play with other languages, like C#, Java and others</li>
+  <li> :computer: Javascript and Python programmer</li>
+  <li> :wrench: Use the React and Angular Frameworks</li>
+  <li> :hammer: Also work in back end with nodeJS</li>
+  <li> :game_die: Also like to play with other languages, like C#, Java and others</li>
 </ul>
 
 <details>

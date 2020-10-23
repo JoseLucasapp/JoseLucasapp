@@ -17,7 +17,6 @@
   [Currency prices against the BRL](https://brl-currency-converter.vercel.app/)
 </details>
 
- <p align='center'>
   <a href="https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/">
     <img src="https://img.shields.io/badge/Profile-LinkedIn-white.svg?colorA=#0000FF&colorB=2E2EFE&style=for-the-badge"/>
   </a>
@@ -27,7 +26,7 @@
   <a href="https://repl.it/@JoseLucasapp">
     <img src="https://img.shields.io/badge/Profile-Repl.it-white.svg?colorA=#000000&colorB=0000FF&style=for-the-badge"/>
   </a>
-</p>
+  
 <img src='languages.png'/>
 
 ![Jose Lucas github stats](https://github-readme-stats.vercel.app/api?username=joselucasapp&show_icons=true&theme=radical&count_private=true)

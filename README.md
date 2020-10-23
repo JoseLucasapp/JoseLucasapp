@@ -1,3 +1,4 @@
+<p align='center'>
 <h1>Hi visitor!, I'm Lucas.</h1>
 <p align='center'>
   <a href="https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/" style='text-decoration: none'>
@@ -27,7 +28,8 @@
   [Tic Tac Toe](https://joselucasapp.github.io/Tic-tac-toe-game/)<br>
   [Currency prices against the BRL](https://brl-currency-converter.vercel.app/)
 </details>
-  
+ 
+</p>
 <img src='languages.png'/>
 
 ![Jose Lucas github stats](https://github-readme-stats.vercel.app/api?username=joselucasapp&show_icons=true&theme=radical&count_private=true)

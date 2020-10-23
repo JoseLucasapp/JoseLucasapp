@@ -1,5 +1,5 @@
 <p align='center'>
-  <h1>Hi visitor!, I'm Lucas.</h1>
+  <h1 align='center'>Hi visitor!, I'm Lucas.</h1>
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/" style='text-decoration: none'>

@@ -19,11 +19,18 @@
 
 <details>
   <summary>How to find me: </summary>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/">
+      <img src="https://img.shields.io/badge/Profile-LinkedIn-white.svg?colorA=#0000FF&colorB=2E2EFE&style=for-the-badge"/>
+    </a>
+    <a href="https://www.instagram.com/jlucasgf/?hl=pt-br">
+      <img src="https://img.shields.io/badge/Profile-Instagram-white.svg?colorA=#A901DB&colorB=DF01D7&style=for-the-badge"/>
+    </a>
+    <a href="https://repl.it/@JoseLucasapp">
+      <img src="https://img.shields.io/badge/Profile-Repl.it-white.svg?colorA=#000000&colorB=0000FF&style=for-the-badge"/>
+    </a>
+  </p>
 
-  [Instagram](https://www.instagram.com/jlucasgf/?hl=pt-br) -
-  [CodePen](https://codepen.io/joselucasapp) -
-  [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/) -
-  [Repl.it](https://repl.it/@JoseLucasapp)
 </details>
 
 <img src='languages.png'/>

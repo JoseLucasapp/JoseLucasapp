@@ -7,6 +7,7 @@
   <li> :wrench: Use the React and Angular Frameworks</li>
   <li> :hammer: Also work in back end with nodeJS</li>
   <li> :game_die: Also like to play with other languages, like C#, Java and others</li>
+  <li> :musical_note: I really like rock'n roll </li>
 </ul>
 
 <details>

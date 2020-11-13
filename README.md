@@ -30,6 +30,19 @@
   [Currency prices against the BRL](https://brl-currency-converter.vercel.app/)<br>
   [2112 Chat](https://chat2112jl.herokuapp.com/)
 </details>
+<details>
+  <summary>My favorite projects</summary>
+  [Cep Facil](https://github.com/JoseLucasapp/Cep-Facil)
+  <dl>
+    <details>
+      <summary>Name Draw</summary>
+
+          * Language: Python
+          * Info: Search brazilian zip-code.
+   </details>
+  </dl>
+
+</details>
 <img src='languages.png'/>
 
 ![Jose Lucas github stats](https://github-readme-stats.vercel.app/api?username=joselucasapp&show_icons=true&theme=radical&count_private=true)

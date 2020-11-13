@@ -38,7 +38,7 @@
   
   <dl>
     <details>
-      <summary>More info about this project</summary>
+      <summary>More info about Cep Facil project</summary>
 
           * Language: Python
           * Info: Search brazilian zip-code.

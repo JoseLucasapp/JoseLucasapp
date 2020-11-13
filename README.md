@@ -32,7 +32,9 @@
 </details>
 <details>
   <summary>My favorite projects</summary>
+  
   [Cep Facil](https://github.com/JoseLucasapp/Cep-Facil)<br>
+  
   <dl>
     <details>
       <summary>More info about this project</summary>

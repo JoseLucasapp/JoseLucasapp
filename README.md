@@ -32,10 +32,10 @@
 </details>
 <details>
   <summary>My favorite projects</summary>
-  [Cep Facil](https://github.com/JoseLucasapp/Cep-Facil)
+  [Cep Facil](https://github.com/JoseLucasapp/Cep-Facil)<br>
   <dl>
     <details>
-      <summary>Name Draw</summary>
+      <summary>More info about this project</summary>
 
           * Language: Python
           * Info: Search brazilian zip-code.

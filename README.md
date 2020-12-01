@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/jlucasgf/?hl=pt-br" style='text-decoration: none'>
     <img src="https://img.shields.io/badge/Profile-Instagram-white.svg?colorA=#A901DB&colorB=DF01D7&style=for-the-badge" />
   </a>
-  <a href="https://repl.it/@JoseLucasapp" style='text-decoration: none'>
+  <a href="https://repl.it/upgrade/JoseLucasapp" style='text-decoration: none'>
     <img src="https://img.shields.io/badge/Profile-Repl.it-white.svg?colorA=#000000&colorB=0000FF&style=for-the-badge" />
   </a>
 </p>

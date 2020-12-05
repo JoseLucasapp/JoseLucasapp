@@ -1,25 +1,34 @@
 <p>
-  <h1>Hello my name is Lucas, i have 20 years old, how are you?. Welcome to my github.</h1>
+  <h1>Hello my name is lucas, i'm brazilian and i'm 20 years old. I'm dev jr with main focus on the backend with nodejs</h1>
 </p>
 
 <p>
   <h2 align='center'>Work experience</h2>
-    <h4>None work experience</h4>
-  <hr />
+    <h4>No work experience</h4>
   <h2 align='center'>Academic education</h2>
-  <hr />
+    <h4>complete high school</h4>
+      <h5><b>Pe Jerônimo Lauwen - Santa Luzia, PB, Brazil</b></h5>
   <h2 align='center'>Skills</h2>
-    <h3>Languages<h3>
-    <h4>Javascript - Python</h4>
-    <h3>Back End - Javascript</h3>
-    <h4>NodeJS</h4>
-    <h3>Front End - Javascript</h3>
-    <h4>ReactJS and Angular 2+</h4>
-    <h3>Python</h3>
-    <h4>Pandas - Matplotlib - SKlearn</h4>
-  <hr />
+    <ul>
+      <li>Javascript</li>
+      <li>NodeJS</li>
+      <li>NodeJS - MVC design pattern</li>
+      <li>NodeJS - Socket.IO</li>
+      <li>React JS</li>
+      <li>Angular 2+</li>
+      <li>Mongo DB</li>
+      <li>Mysql</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>EJS</li>
+      <li>Python</li>
+      <li>Python - Pandas</li>
+      <li>Python - Matplotlib</li>
+      <li>Python - Sklearn</li>
+      <li></li>
+    </ul>
   <h2 align='center'>Certifications</h2>
-    <img src='certificate.jpg' width='250px' height='200px'>
-  <hr />
+    <img align='center' src='certificate.jpg' width='250px' height='200px'>
   <h2 align='center'>Additional Information</h2>
+    <h4></h4>
 </p>

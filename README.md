@@ -17,5 +17,6 @@
     <h3>Python</h3>
     <h4>Pandas - Matplotlib - SKlearn</h4>
   <h2>Certifications</h2>
+    <img src='certificate.jpg' width='200px' height='200px'>
   <h2>Additional Information</h2>
 </p>

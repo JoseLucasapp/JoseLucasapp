@@ -4,14 +4,17 @@
   <p>Country: <span><b></b>Brazil</span></p>
   <p><b>Javascript junior programmer, focusing on the backend<b></p>
   <p>send a message for me: "jlgf.profissional@gmail.com"</p>
+  <br />
 </p>
 
 <p>
   <h2 align='center'>Work experience</h2>
     <h4>No work experience</h4>
+    <br />
   <h2 align='center'>Academic education</h2>
     <h4>complete high school</h4>
-      <h5><b>Pe Jerônimo Lauwen - Santa Luzia, PB, Brazil</b></h5>
+    <p><b>Pe Jerônimo Lauwen - Santa Luzia, PB, Brazil</b></p>
+    <br />
   <h2 align='center'>Skills</h2>
     <ul>
       <li>Javascript</li>
@@ -25,11 +28,12 @@
       <li>HTML</li>
       <li>CSS</li>
       <li>EJS</li>
-      <li>*Python</li>
+      <li>Python</li>
       <li>Python - Pandas</li>
       <li>Python - Matplotlib</li>
       <li>Python - Sklearn</li>
     </ul>
+  <br />
   <h2 align='center'>Certifications</h2>
     <img align='center' src='certificate.jpg' width='250px' height='200px'>
 </p>

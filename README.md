@@ -1,5 +1,9 @@
 <p>
-  <h1>Hello my name is lucas, i'm brazilian and i'm 20 years old. I'm dev jr with main focus on the backend with nodejs</h1>
+  <p>Name: <span><b>Lucas Freitas</b></span></p>
+  <p>Age: <span><b>20 years</b></span></p>
+  <p>Country: <span><b></b>Brazil</span></p>
+  <p>Javascript junior programmer</p>
+  <p>send a message for me: "jlgf.profissional@gmail.com"</p>
 </p>
 
 <p>
@@ -21,7 +25,7 @@
       <li>HTML</li>
       <li>CSS</li>
       <li>EJS</li>
-      <li>Python</li>
+      <li>*Python</li>
       <li>Python - Pandas</li>
       <li>Python - Matplotlib</li>
       <li>Python - Sklearn</li>

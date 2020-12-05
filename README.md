@@ -36,4 +36,7 @@
   <br />
   <h2 align='center'>Certifications</h2>
     <img align='center' src='certificate.jpg' width='250px' height='200px'>
+  <br />
+  <h2 align='center'>Links</h2>
+    <p>Linkedin: <span><a href="https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/">https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/</a></span></p>
 </p>

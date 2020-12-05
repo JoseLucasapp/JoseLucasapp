@@ -2,7 +2,7 @@
   <p>Name: <span><b>Lucas Freitas</b></span></p>
   <p>Age: <span><b>20 years</b></span></p>
   <p>Country: <span><b></b>Brazil</span></p>
-  <p>Javascript junior programmer</p>
+  <p><b>Javascript junior programmer, focusing on the backend<b></p>
   <p>send a message for me: "jlgf.profissional@gmail.com"</p>
 </p>
 
@@ -29,10 +29,7 @@
       <li>Python - Pandas</li>
       <li>Python - Matplotlib</li>
       <li>Python - Sklearn</li>
-      <li></li>
     </ul>
   <h2 align='center'>Certifications</h2>
     <img align='center' src='certificate.jpg' width='250px' height='200px'>
-  <h2 align='center'>Additional Information</h2>
-    <h4></h4>
 </p>

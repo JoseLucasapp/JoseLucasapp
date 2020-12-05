@@ -13,7 +13,7 @@
     <br />
   <h2 align='center'>Academic education</h2>
     <h3>Complete high school</h3>
-    <p><b>Pe Jerônimo Lauwen - Santa Luzia, PB, Brazil</b></p>
+    <p><b> - Pe Jerônimo Lauwen - Santa Luzia, PB, Brazil</b></p>
     <br />
   <h2 align='center'>Skills</h2>
     <ul>

@@ -12,7 +12,7 @@
     <h4>No work experience</h4>
     <br />
   <h2 align='center'>Academic education</h2>
-    <h4>complete high school</h4>
+    <h3>Complete high school</h3>
     <p><b>Pe Jerônimo Lauwen - Santa Luzia, PB, Brazil</b></p>
     <br />
   <h2 align='center'>Skills</h2>

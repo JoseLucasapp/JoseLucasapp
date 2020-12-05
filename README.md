@@ -2,8 +2,8 @@
   <p>Name: <span><b>Lucas Freitas</b></span></p>
   <p>Age: <span><b>20 years</b></span></p>
   <p>Country: <span><b></b>Brazil</span></p>
+  <p>Contact: <b>jlgf.profissional@gmail.com</b></p>
   <p><b>Javascript junior programmer, focusing on the backend<b></p>
-  <p>send a message for me: "jlgf.profissional@gmail.com"</p>
   <br />
 </p>
 
@@ -39,4 +39,5 @@
   <br />
   <h2 align='center'>Links</h2>
     <p>Linkedin: <span><a href="https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/">https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/</a></span></p>
+    <p>Github: <span><a href='https://github.com/JoseLucasapp'>https://github.com/JoseLucasapp</a></p>
 </p>

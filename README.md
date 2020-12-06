@@ -1,43 +1,38 @@
-<p>
-  <p>Name: <span><b>Lucas Freitas</b></span></p>
-  <p>Age: <span><b>20 years</b></span></p>
-  <p>Country: <span><b></b>Brazil</span></p>
-  <p>Contact: <b>jlgf.profissional@gmail.com</b></p>
-  <p><b>Javascript junior programmer, focusing on the backend<b></p>
-  <br />
+<p align='center'>
+  <h1 align='center'>Hi visitor!, I'm Lucas.</h1>
+</p>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/" style='text-decoration: none'>
+    <img src="https://img.shields.io/badge/Profile-LinkedIn-white.svg?colorA=#0000FF&colorB=2E2EFE&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/jlucasgf/?hl=pt-br" style='text-decoration: none'>
+    <img src="https://img.shields.io/badge/Profile-Instagram-white.svg?colorA=#A901DB&colorB=DF01D7&style=for-the-badge" />
+  </a>
+  <a href="https://repl.it/upgrade/JoseLucasapp" style='text-decoration: none'>
+    <img src="https://img.shields.io/badge/Profile-Repl.it-white.svg?colorA=#000000&colorB=0000FF&style=for-the-badge" />
+  </a>
 </p>
 
-<p>
-  <h2 align='center'>Work experience</h2>
-    <h4>No work experience</h4>
-    <br />
-  <h2 align='center'>Academic education</h2>
-    <h3>Complete high school</h3>
-    <p><b> - Pe Jerônimo Lauwen - Santa Luzia, PB, Brazil</b></p>
-    <br />
-  <h2 align='center'>Skills</h2>
-    <ul>
-      <li>Javascript</li>
-      <li>NodeJS</li>
-      <li>NodeJS - MVC design pattern</li>
-      <li>NodeJS - Socket.IO</li>
-      <li>React JS</li>
-      <li>Angular 2+</li>
-      <li>Mongo DB</li>
-      <li>Mysql</li>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>EJS</li>
-      <li>Python</li>
-      <li>Python - Pandas</li>
-      <li>Python - Matplotlib</li>
-      <li>Python - Sklearn</li>
-    </ul>
-  <br />
-  <h2 align='center'>Certifications</h2>
-    <img align='center' src='certificate.jpg' width='300px' height='250px'>
-  <br />
-  <h2 align='center'>Links</h2>
-    <p>Linkedin: <span><a href="https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/">https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/</a></span></p>
-    <p>Github: <span><a href='https://github.com/JoseLucasapp'>https://github.com/JoseLucasapp</a></p>
+<p align="right">
+  <h3>Here a little about me:</h3>
+  <ul>
+    <li> :round_pushpin: I from Brazil</li>
+    <li> :computer: Javascript and Python programmer</li>
+    <li> :wrench: I Use the React and Angular Frameworks in front-end, and use nodejs in back-end</li>
+    <li> :hammer: With python I have a larger domain of the tkinter library, but I have also used and developed with pandas, matplotlib and others</li>
+    <li> :game_die: Also like to play with other languages, like C#, Java and others</li>
+    <li> :musical_note: I really like rock'n roll </li>
+  </ul>
+
+  <details>
+    <summary>My posted projects</summary>
+
+    [Tic Tac Toe](https://joselucasapp.github.io/Tic-tac-toe-game/)<br>
+    [Currency prices against the BRL](https://brl-currency-converter.vercel.app/)<br>
+    [2112 Chat](https://chat2112jl.herokuapp.com/)
+  </details>
 </p>
+<img src='languages.png'/>
+
+![Jose Lucas github stats](https://github-readme-stats.vercel.app/api?username=joselucasapp&show_icons=true&theme=radical&count_private=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joselucasapp&layout=compact&custom_title=JoseLucasapp+languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

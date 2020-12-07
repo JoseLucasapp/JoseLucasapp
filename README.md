@@ -32,7 +32,6 @@
     [2112 Chat](https://chat2112jl.herokuapp.com/)
   </details>
 </p>
-<img src='languages.png'/>
 
 ![Jose Lucas github stats](https://github-readme-stats.vercel.app/api?username=joselucasapp&show_icons=true&theme=radical&count_private=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joselucasapp&layout=compact&custom_title=JoseLucasapp+languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

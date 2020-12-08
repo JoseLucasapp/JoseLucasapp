@@ -18,12 +18,12 @@
   <ul>
     <li> :round_pushpin: I from Brazil</li>
     <li> :computer: Javascript and Python programmer</li>
-    <li> :books: improving my english</li>
+    <li> :books: Improving my english</li>
     <li> :wrench: I Use the React and Angular Frameworks in front-end, and use nodejs in back-end</li>
     <li> :hammer: With python I have a larger domain of the tkinter library, but I have also used and developed with pandas, matplotlib and others</li>
     <li> :game_die: Also like to play with other languages, like C#, Java and others</li>
     <li> :musical_note: I really like rock'n roll </li>
-    <li> :mortar_board: certified python developer (matplotlib, pandas, sklearn) by Udemy </li>
+    <li> :mortar_board: Certified python developer (matplotlib, pandas, sklearn) by Udemy </li>
   </ul>
 
   <details>

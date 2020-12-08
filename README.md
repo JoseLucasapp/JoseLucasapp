@@ -18,6 +18,7 @@
   <ul>
     <li> :round_pushpin: I from Brazil</li>
     <li> :computer: Javascript and Python programmer</li>
+    <li> :paper: improving english now</li>
     <li> :wrench: I Use the React and Angular Frameworks in front-end, and use nodejs in back-end</li>
     <li> :hammer: With python I have a larger domain of the tkinter library, but I have also used and developed with pandas, matplotlib and others</li>
     <li> :game_die: Also like to play with other languages, like C#, Java and others</li>

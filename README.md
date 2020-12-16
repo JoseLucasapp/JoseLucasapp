@@ -3,6 +3,7 @@
 </p>
 <p align='center'>
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="josé-lucas-freitas-8ba524150"><a class="LI-simple-link" href='https://br.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150?trk=profile-badge'>José Lucas Freitas</a></div>
+  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/" style='text-decoration: none'>

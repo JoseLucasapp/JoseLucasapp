@@ -31,9 +31,8 @@
   <details>
     <summary>My posted projects</summary>
 
-    [Tic Tac Toe](https://joselucasapp.github.io/Tic-tac-toe-game/)<br>
     [Currency prices against the BRL](https://brl-currency-converter.vercel.app/)<br>
-    [2112 Chat](https://chat2112jl.herokuapp.com/)
+    
   </details>
 </p>
 

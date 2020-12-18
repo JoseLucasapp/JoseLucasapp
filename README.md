@@ -27,13 +27,6 @@
     <li> :mortar_board: Certified <b>Python(Matplotlib, Pandas, Sklearn)</b> developer by Udemy</li>
     <li> :mortar_board: Certified <b>NodeJS(MySQL, MongoDB, Design Pattern MVC, Express, API)</b> developer by Udemy</li>
   </ul>
-
-  <details>
-    <summary>My posted projects</summary>
-
-    [Currency prices against the BRL](https://brl-currency-converter.vercel.app/)<br>
-    
-  </details>
 </p>
 
 ![Jose Lucas github stats](https://github-readme-stats.vercel.app/api?username=joselucasapp&show_icons=true&theme=radical&count_private=true)

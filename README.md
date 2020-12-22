@@ -27,4 +27,4 @@
 </p>
 
 ![Jose Lucas github stats](https://camo.githubusercontent.com/1a6cf9dda0ba7cd7731a63df9b75da02b6ac407eb9f5bafda2e7926fe4b52cbb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a6f73656c756361736170702673686f775f69636f6e733d74727565267468656d653d7261646963616c26636f756e745f707269766174653d74727565)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joselucasapp&layout=compact&custom_title=JoseLucasapp+languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joselucasapp&layout=compact&custom_title=JoseLucasapp+languages&langs_count=8&bg_color=151515&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&)](https://github.com/anuraghazra/github-readme-stats)

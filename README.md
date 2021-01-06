@@ -16,12 +16,12 @@
 <p align="right">
   <h3>Here a little about me:</h3>
   <ul>
-    <li> :round_pushpin: I from Brazil</li>
-    <li> :computer: Javascript and Python programmer</li>
-    <li> :guitar: A Rock 'n' Roll fan</li>
-    <li> :books: Improving my english</li>
-    <li> :wrench: I Use the React and Angular Frameworks in front-end, and use nodejs in back-end</li>
-    <li> :mortar_board: Certified <b>Python(Matplotlib, Pandas, Sklearn)</b><a href='https://www.udemy.com/certificate/UC-45d71966-83f5-42ee-84b2-a895759290f2/'>by Udemy</a></li>
+    <li> :round_pushpin: I from Brazil.</li>
+    <li> :computer: Javascript and Python programmer.</li>
+    <li> :guitar: A Rock 'n' Roll fan.</li>
+    <li> :books: Improving my english.</li>
+    <li> :wrench: I Use the React and Angular Frameworks in front-end, and use nodejs in back-end.</li>
+    <li> :mortar_board: Certified <b>Python(Matplotlib, Pandas, Sklearn)</b><a href='https://www.udemy.com/certificate/UC-45d71966-83f5-42ee-84b2-a895759290f2/'> by Udemy</a></li>
     <li> :mortar_board: Certified <b>NodeJS(MySQL, MongoDB, Design Pattern MVC, Express, API)</b> <a href="https://www.udemy.com/certificate/UC-375cff35-fbba-40a1-a05a-d3d4c96819a1/">by Udemy</a></li>
   <li> :mortar_board: Certified <b>Angular</b> <a href="https://loiane.training/certificado/TzGTz5b0cEj6lvawZXwv">by Loiane.training</a></li>
   </ul>

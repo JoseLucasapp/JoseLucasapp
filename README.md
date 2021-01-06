@@ -23,5 +23,6 @@
     <li> :wrench: I Use the React and Angular Frameworks in front-end, and use nodejs in back-end</li>
     <li> :mortar_board: Certified <b>Python(Matplotlib, Pandas, Sklearn)</b> developer by Udemy</li>
     <li> :mortar_board: Certified <b>NodeJS(MySQL, MongoDB, Design Pattern MVC, Express, API)</b> developer by Udemy</li>
+    <li> :mortar_board: Certified Angular https://loiane.training/certificado/TzGTz5b0cEj6lvawZXwv</li>
   </ul>
 </p>

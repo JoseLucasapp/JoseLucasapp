@@ -20,9 +20,9 @@
     <li> :computer: Javascript and Python programmer.</li>
     <li> :guitar: A Rock 'n' Roll fan.</li>
     <li> :books: Improving my english.</li>
-    <li> :wrench: I Use the React and Angular Frameworks in front-end, and use nodejs in back-end.</li>
+    <li> :wrench: I Use React and Angular Frameworks in front-end, and Nodejs in back-end.</li>
     <li> :mortar_board: Certified <b>Python(Matplotlib, Pandas, Sklearn)</b> by Udemy</li>
     <li> :mortar_board: Certified <b>NodeJS(MySQL, MongoDB, Design Pattern MVC, Express, API)</b> by Udemy</li>
-  <li> :mortar_board: Certified <b>Angular</b> by Loiane Training.</li>
+    <li> :mortar_board: Certified <b>Angular</b> by Loiane Training.</li>
   </ul>
 </p>

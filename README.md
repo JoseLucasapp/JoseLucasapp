@@ -50,5 +50,6 @@
 ![NUMPY](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![JUPYTER](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
+![POSTMAN](https://img.shields.io/badge/postman%20-%23150458.svg?&style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 </br>

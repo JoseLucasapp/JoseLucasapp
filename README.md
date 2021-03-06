@@ -26,7 +26,7 @@
 
 </br>
 
-### Linguagem e Ferramentas:
+### Languages and tools:
 
 </br>
 
@@ -42,5 +42,13 @@
 
 ![REACT](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![MONGODB](https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![EXPRESS.JS](https://img.shields.io/badge/Express.js-43853D?style=for-the-badge&logo=express.js&logoColor=white)&nbsp;
+![REDUX](https://img.shields.io/badge/Redux-43853D?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![CANVA](https://img.shields.io/badge/Canva-43853D?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
+![HEROKU](https://img.shields.io/badge/Heroku-43853D?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![PANDAS](https://img.shields.io/badge/Pandas-43853D?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![NUMPY](https://img.shields.io/badge/Numpy-43853D?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![WINDOWS](https://img.shields.io/badge/Windows-43853D?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![JUPYTER](https://img.shields.io/badge/Jupyter-43853D?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 
 </br>

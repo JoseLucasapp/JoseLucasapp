@@ -40,7 +40,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-![REACT](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+![REACT](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![MONGODB](https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![EXPRESS.JS](https://img.shields.io/badge/Express.js-43853D?style=for-the-badge&logo=express.js&logoColor=white)&nbsp;
 ![REDUX](https://img.shields.io/badge/Redux-43853D?style=for-the-badge&logo=redux&logoColor=white)&nbsp;

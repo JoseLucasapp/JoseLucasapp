@@ -1,5 +1,7 @@
 ### Hi visitor!, I'm Lucas. Welcome to my Github
 
+<p>I'm a javascript fullstack developer, and i am a technology lover.</p>
+
 <img align="right" alt="GIF" src="./1_0GlU8cmNjXQD-4IsABV1Ng.png" width="350" height="280" />
 
 ### About me:

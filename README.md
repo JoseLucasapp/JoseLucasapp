@@ -1,6 +1,6 @@
 ## Hi visitor!, I'm Lucas. Welcome to my Github
 
-<p>I'm a javascript fullstack developer, i am a technology lover.</p>
+<p>I'm a javascript fullstack developer.</p>
 
 <img align="right" alt="GIF" src="./1_0GlU8cmNjXQD-4IsABV1Ng.png" width="350" height="280" />
 

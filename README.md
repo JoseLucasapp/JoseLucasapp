@@ -25,6 +25,10 @@
   <a href="https://www.instagram.com/jlucasgf/?hl=pt-br" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  
+  <a href="https://gitlab.com/JoseLucasapp" alt="GitLab">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
 
 </br>
 

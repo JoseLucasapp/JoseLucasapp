@@ -1,13 +1,11 @@
 ## Hi visitor!, I'm Lucas. Welcome to my Github
 
-<p>I'm a javascript fullstack developer.</p>
-
 <img align="right" alt="GIF" src="./1_0GlU8cmNjXQD-4IsABV1Ng.png" width="350" height="280" />
 
 ## About me:
   
   <ul>
-    <li> :round_pushpin: I from Brazil.</li>
+    <li> :round_pushpin: I'm from Brazil.</li>
     <li> :guitar: A music fan.</li>
     <li> :books: Improving my english every day.</li>
     <li> :wrench: Backend developer.</li>

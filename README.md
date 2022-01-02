@@ -8,10 +8,9 @@
   
   <ul>
     <li> :round_pushpin: I from Brazil.</li>
-    <li> :computer: Javascript and Python programmer.</li>
-    <li> :guitar: A Rock 'n' Roll fan.</li>
-    <li> :books: Improving my english.</li>
-    <li> :wrench: I Use React and Angular Frameworks in front-end, and Nodejs in back-end.</li>
+    <li> :guitar: A music fan.</li>
+    <li> :books: Improving my english every day.</li>
+    <li> :wrench: Backend developer.</li>
     <li> :mortar_board: Certified <b>Python(Matplotlib, Pandas, Sklearn)</b> by Udemy</li>
     <li> :mortar_board: Certified <b>NodeJS(MySQL, MongoDB, Design Pattern MVC, Express, API)</b> by Udemy</li>
   </ul>
@@ -50,7 +49,6 @@
   
   ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-  ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 </p>
 
 <p>
@@ -58,7 +56,6 @@
   
   ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![EXPRESS.JS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)&nbsp;
-  ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
   ![REDUX](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
   ![JUPYTER](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 </p>

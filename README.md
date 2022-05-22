@@ -87,6 +87,12 @@
 </p>
 
 <p>
+  Tests
+  
+  ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
+</p>
+
+<p>
   OS
   
   ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;

@@ -15,7 +15,7 @@
 
 ## Find me here:
 
-  <a href="https://www.linkedin.com/in/jos%C3%A9-lucas-freitas-8ba524150/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-lucas-gon%C3%A7alves-freitas-8ba524150/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   

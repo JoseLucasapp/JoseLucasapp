@@ -47,7 +47,6 @@
   
   ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-  ![PEARL](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)&nbsp;
 </p>
 
 <p>

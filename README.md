@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joselucasapp&label=Profile%20views&color=0e75b6&style=flat" alt="joselucasapp" /> </p>
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript**, **Sports**, **Books** or **Music**.
 
 - 📫 How to reach me **https://www.instagram.com/jlucasgf/**
 

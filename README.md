@@ -8,7 +8,7 @@
     <li> :round_pushpin: I'm from Brazil.</li>
     <li> :guitar: A music fan.</li>
     <li> :books: Improving my english every day.</li>
-    <li> :wrench: Backend developer.</li>
+    <li> :wrench: Fullstack developer.</li>
     <li> :mortar_board: Certified <b>Python(Matplotlib, Pandas, Sklearn)</b> by Udemy</li>
     <li> :mortar_board: Certified <b>NodeJS(MySQL, MongoDB, Design Pattern MVC, Express, API)</b> by Udemy</li>
   </ul>
@@ -26,10 +26,3 @@
   <a href="https://gitlab.com/JoseLucasapp" alt="GitLab">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
-
-</br>
-
-<p align="left">
-<!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLucasapp&theme=blue-green"/>
-</p>

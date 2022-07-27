@@ -99,3 +99,8 @@
 </p>
 
 </br>
+
+<p align="left">
+<!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLucasapp&theme=blue-green"/>
+</p>

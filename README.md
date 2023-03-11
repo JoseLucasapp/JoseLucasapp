@@ -7,11 +7,11 @@
 - Fullstack developer
 - Web Scraping
 
-- Javascript, Typescript, and Python.
-- Puppeteer, Playwright, and Selenium.
+- Javascript, and Typescript, and Python, and GO.
+- Puppeteer, and Playwright, and Selenium.
 - React, and React Native.
-- MongoDB, MySQL, and PostgreSQL.
-- Node.JS.
+- MongoDB, and MySQL, and PostgreSQL.
+- NodeJS, and Flask, and Gin.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

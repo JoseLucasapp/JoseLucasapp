@@ -18,4 +18,4 @@
 <a href="https://linkedin.com/in/josé-lucas-gonçalves-freitas-8ba524150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé-lucas-gonçalves-freitas-8ba524150" height="30" width="40" /></a>
 <a href="https://instagram.com/jlucasgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jlucasgf" height="30" width="40" /></a>
 </p>
-<a href='https://drive.google.com/file/d/1ECR9d4AXEXp2Skg3SoWJW6DSVd5DxrKX/view?usp=share_link'>check my PT-BR CV here</a>
+<a href='[https://drive.google.com/file/d/1ECR9d4AXEXp2Skg3SoWJW6DSVd5DxrKX/view?usp=share_link](https://drive.google.com/file/d/1hW0a-JBbYaxyy_3KrPdmoT64TbP92O8k/view?usp=sharing)'>check my PT-BR CV here</a>

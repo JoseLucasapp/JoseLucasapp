@@ -11,7 +11,4 @@
 - React, and React Native.
 - MongoDB, and MySQL, and PostgreSQL.
 - NodeJS, and Flask, and Gin.
-
-<div align="right">
-![José Lucas GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joselucasapp&theme=blue-green)
-</div>
+- And i like avocado :avocado:

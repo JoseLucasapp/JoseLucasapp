@@ -12,8 +12,4 @@
 - MongoDB, and MySQL, and PostgreSQL.
 - NodeJS, and Flask, and Gin.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/josé-lucas-gonçalves-freitas-8ba524150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé-lucas-gonçalves-freitas-8ba524150" height="30" width="40" /></a>
-<a href="https://instagram.com/jlucasgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jlucasgf" height="30" width="40" /></a>
-</p>
+![José Lucas GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joselucasapp&theme=blue-green)

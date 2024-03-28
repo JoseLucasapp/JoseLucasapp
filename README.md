@@ -1,16 +1,46 @@
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+<h1 align="center">José Lucas</h1>
+<p align="center">Fullstack developer</p>
 
-- 4+ years working with javascript.
-- Fullstack developer.
-- Web Scraping (Puppeteer, and Playwright, and Selenium).
-- ReactJS, and React Native.
-- MongoDB, and MySQL, and PostgreSQL.
-- NodeJS, and Flask, and Gin.
-- And i like avocado :avocado:
+### About me
+> 4+ years in the software development world.
 
-<div style="display:inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-</div>
+> Brazilian.
+
+> English proficiency.
+
+### Study
+
+> System Analysis student at Unifip.
+
+### Work Tools
+
+> Javascript | Typescript, Python, PHP, GO, Elixir, Java.
+
+> ReactJS, NodeJS, NestJS, ExpressJS.
+
+> Flask, Django.
+
+> Gin.
+
+> Phoenix.
+
+> Spring.
+
+> MySQL, MongoDB, PostgreSQL, MariaDB.
+
+> Redis, Firebase, AWS.
+
+> Docker.
+
+### Important Knowledge
+
+> Machine Learning, Data Science, WebScraping.
+> Docs writing proficiency.
+
+### Contact
+> <a href="https://www.linkedin.com/in/jlgf524150/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+### Infos
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joselucasapp&hide_progress=true)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joselucasapp&show_icons=true&theme=dark)

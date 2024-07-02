@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Joselucasapp, nice to meet you.</h1>
-<img align="center" alt="Data Science" src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg">
+<img align="center" alt="Data Science" src="./joselucasapp.png">
 
 I am a passionate software developer with a deep interest in new technologies, but i love to learn some old things, I enjoy working on projects that challenge me and allow me to grow my skillset, if you want to talk to me send an email.
 

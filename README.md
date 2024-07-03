@@ -5,9 +5,11 @@ I am a passionate software developer with a deep interest in new technologies, b
   - 🔭 Current Focus: Software engineering, Full-stack development and Machine Learning.
   - 🌱 Learning: Continuously improving my knowledge.
   - 👯 Looking to Collaborate: Open to collaborating on innovative projects and contributing to interesting open-source communities.
+  - Analysis and systems development student at UNIFIP.
 
 <!-- Languages and Other Knowledge Section -->
-<h3 align="center">Languages and Other Knowledge</h3>
+
+## Languages and Other Knowledge:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nodejs,nestjs,mongodb,python,flask,selenium,java,perl,go,php,elixir,cs,mysql,postgres,docker" alt=""/>
 </div>

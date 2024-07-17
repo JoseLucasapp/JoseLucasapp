@@ -25,3 +25,5 @@ I am a passionate software developer with a deep interest in new technologies, b
 
 ## Github Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=joselucasapp)](https://github.com/joselucasapp/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=joselucasapp)

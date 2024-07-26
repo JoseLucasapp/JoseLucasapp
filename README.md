@@ -3,7 +3,7 @@
 I am a passionate software developer with a deep interest in new technologies, but i love to learn some old things, I enjoy working on projects that challenge me and allow me to grow my skillset, if you want to talk to me send an email.
 
   - 🔭 Current Focus: Software engineering, Full-stack development and Machine Learning.
-  - 🌱 Learning: Continuously improving my knowledge.
+  - 🌱 Continuously improving my knowledge.
   - 👯 Looking to Collaborate: Open to collaborating on innovative projects and contributing to interesting open-source communities.
   - Analysis and systems development student at UNIFIP.
 

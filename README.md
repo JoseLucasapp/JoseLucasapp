@@ -20,7 +20,7 @@ I am a passionate software developer with a deep interest in new technologies, b
 
 ## Certifications
 
-<a href="HTTPS://www.github.com/joselucasapp/Certifications">here</a>
+<a href="HTTPS://www.github.com/joselucasapp/Certifications">Certifications</a>
 
 <br />
 

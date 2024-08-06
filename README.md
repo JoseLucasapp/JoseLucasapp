@@ -18,6 +18,10 @@ I am a passionate software developer with a deep interest in new technologies, b
   <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nodejs,nestjs,mongodb,python,flask,selenium,java,perl,go,php,elixir,cs,mysql,postgres,docker" alt=""/>
 </div>
 
+## Certifications
+
+<a href="HTTPS://www.github.com/joselucasapp/Certifications">here</>
+
 <br />
 
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joselucasapp&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>

@@ -7,10 +7,6 @@ I am a passionate software developer with a deep interest in new technologies, b
   - 👯 Looking to Collaborate: Open to collaborating on innovative projects and contributing to interesting open-source communities.
   - Analysis and systems development student at UNIFIP.
 
-## Currently working on
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=boot-buddy)](https://github.com/joselucasapp/boot-buddy)
-
 <!-- Languages and Other Knowledge Section -->
 
 ## Languages and Other Knowledge:

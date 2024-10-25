@@ -1,11 +1,13 @@
-<div style="display: flex; justify-content: space-between;">
-  <img width="770" alt="Data Science" src="./joselucasapp.png">
-  <img width="230" alt="Rey Future" src="./rey_future.webp">
-</div>
+<img alt="Data Science" src="./joselucasapp.png">
 
+<p align="center">
+  <a href="https://joselucasapp.com" target="blank">joselucasapp.com</a>
+</p>
 
+<p align="center">
+  <img width="200" alt="Rey Future" src="./rey_future.webp">
+</p>
 
-<a href="https://joselucasapp.com" target="blank">joselucasapp.com</a>
 
 I am a passionate software developer with a deep interest in new technologies, but i love to learn some old things, I enjoy working on projects that challenge me and allow me to grow my skillset, if you want to talk to me send an email.
 

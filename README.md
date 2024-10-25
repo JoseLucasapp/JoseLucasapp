@@ -1,4 +1,10 @@
-<img align="center" alt="Data Science" src="./joselucasapp.png">
+<div style="display: flex; justify-content: space-between;">
+  <img width="770" alt="Data Science" src="./joselucasapp.png">
+  <img width="230" alt="Rey Future" src="./rey_future.webp">
+</div>
+
+
+
 <a href="https://joselucasapp.com" target="blank">joselucasapp.com</a>
 
 I am a passionate software developer with a deep interest in new technologies, but i love to learn some old things, I enjoy working on projects that challenge me and allow me to grow my skillset, if you want to talk to me send an email.
@@ -15,10 +21,6 @@ I am a passionate software developer with a deep interest in new technologies, b
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nodejs,nestjs,mongodb,python,flask,selenium,java,perl,go,php,elixir,cs,mysql,postgres,docker" alt=""/>
 </div>
-
-## Certifications
-
-<a href="HTTPS://www.github.com/joselucasapp/Certifications">Certifications</a>
 
 <br />
 

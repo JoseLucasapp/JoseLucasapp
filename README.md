@@ -1,4 +1,4 @@
-<img alt="Data Science" src="./joselucasapp.png">
+<img alt="Data Science" src="./Untitled design.png">
 
 <p align="center">
   <a href="https://joselucasapp.com" target="blank">joselucasapp.com</a>

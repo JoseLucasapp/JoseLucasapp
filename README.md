@@ -13,7 +13,6 @@ I am a passionate software developer with a deep interest in new technologies, b
 
   - 🔭 Current Focus: Software engineering, Full-stack development and Mobile.
   - 🌱 Continuously improving my knowledge.
-  - 👯 Looking to Collaborate: Open to collaborating on innovative projects and contributing to interesting open-source communities.
   - Analysis and systems development student at UNIFIP.
   - You can see all my certifications here: <a target="blank" href="https://github.com/JoseLucasapp/Certifications">joselucasapp/certifications</a>
 

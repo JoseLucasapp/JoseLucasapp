@@ -14,6 +14,7 @@ Teaching others about the beauty and importance of programming is something I tr
 
   - 🔭 Current Focus: Software engineering, Full-stack development and Mobile.
   - 🌱 Continuously improving my knowledge.
+  - Golang lover.
   - Analysis and systems development student at UNIFIP.
   - You can see all my certifications here: <a target="blank" href="https://github.com/JoseLucasapp/Certifications">joselucasapp/certifications</a>
 

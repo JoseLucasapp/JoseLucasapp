@@ -6,6 +6,7 @@
 
 <p align="center">
   <img width="200" alt="Rey Future" src="./rey_future.webp">
+  <img width="200" alt="Siddhartha Gautama" src="./Siddhartha Gautama.webp">
 </p>
 
 

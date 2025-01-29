@@ -13,11 +13,13 @@
 I am a passionate software developer with a deep interest in new technologies, but i love to learn some old things, I enjoy working on projects that challenge me and allow me to grow my skillset, if you want to talk to me send an email.
 Teaching others about the beauty and importance of programming is something I truly love. It is not only a valuable skill for professional purposes but also a tool for enjoyment and enhancing everyday life.
 
+  - Brazilian
   - 🔭 Current Focus: Software engineering, Full-stack development and Mobile.
   - 🌱 Continuously improving my knowledge.
   - Golang lover.
   - Analysis and systems development student at UNIFIP.
   - You can see all my certifications here: <a target="blank" href="https://github.com/JoseLucasapp/Certifications">joselucasapp/certifications</a>
+  - Learning chinese
 
 <!-- Languages and Other Knowledge Section -->
 

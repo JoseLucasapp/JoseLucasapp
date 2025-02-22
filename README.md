@@ -1,12 +1,7 @@
-<img alt="Data Science" src="./Untitled design.png">
+
 
 <p align="center">
-  <a href="https://joselucasapp.com" target="blank">joselucasapp.com</a>
-</p>
-
-<p align="center">
-  <img width="200" alt="Rey Future" src="./rey_future.webp">
-  <img width="200" alt="Siddhartha Gautama" src="./Siddhartha Gautama.webp">
+  <a href="https://joselucasapp.com" target="blank"><img alt="Data Science" src="./Untitled design.png"></a>
 </p>
 
 
@@ -14,6 +9,7 @@ I am a passionate software developer with a deep interest in new technologies, b
 Teaching others about the beauty and importance of programming is something I truly love. It is not only a valuable skill for professional purposes but also a tool for enjoyment and enhancing everyday life.
 
   - Brazilian
+  - 💼 Currently working at <a target="blank" href="https://www.webjump.ai/en/home/">WEBJUMP</a>
   - 🔭 Current Focus: Software engineering, Full-stack development and Mobile.
   - 🌱 Continuously improving my knowledge.
   - Golang lover.

@@ -1,5 +1,4 @@
-
-
+![](https://komarev.com/ghpvc/?username=joselucasapp)
 <p align="center">
   <a href="https://joselucasapp.com" target="blank"><img alt="Data Science" src="./Untitled design.png"></a>
 </p>
@@ -9,19 +8,15 @@ I am a passionate software developer with a deep interest in new technologies, b
 Teaching others about the beauty and importance of programming is something I truly love. It is not only a valuable skill for professional purposes but also a tool for enjoyment and enhancing everyday life.
 
   - Brazilian
-  - 💼 Currently working at <a target="blank" href="https://www.webjump.ai/en/home/">WEBJUMP</a>
-  - 🔭 Current Focus: Software engineering, Full-stack development and Mobile.
-  - 🌱 Continuously improving my knowledge.
+  - Continuously improving my knowledge.
   - Golang lover.
-  - Analysis and systems development student at UNIFIP.
-  - You can see all my certifications here: <a target="blank" href="https://github.com/JoseLucasapp/Certifications">joselucasapp/certifications</a>
-  - Learning chinese
-
+  - Analysis and systems development student.
+  - You can see some of mine certifications here: <a target="blank" href="https://github.com/JoseLucasapp/Certifications">joselucasapp/certifications</a>
+  
 <!-- Languages and Other Knowledge Section -->
 
-## Languages and Other Knowledge:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nodejs,nestjs,mongodb,python,flask,selenium,java,perl,go,php,elixir,cs,mysql,postgres,docker" alt=""/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,nestjs,python,java,perl,go,php,elixir,cs,cpp" alt=""/>
 </div>
 
 <br />
@@ -31,9 +26,3 @@ Teaching others about the beauty and importance of programming is something I tr
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joselucasapp&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joselucasapp&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joselucasapp&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselucasapp&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
-
-## Github Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=joselucasapp)](https://github.com/joselucasapp/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/?username=joselucasapp)

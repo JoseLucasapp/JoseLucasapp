@@ -5,7 +5,7 @@
 
 <p align="center">I would love if you cold give a look and a star to my new project</p>
 <p align="center">
-  <a href="https://github.com/joselucasapp/colab-connect">
+  <a href="https://github.com/joselucasapp/ZUMBRA-lang">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZUMBRA-lang" />
   </a>
 </p>

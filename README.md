@@ -1,32 +1,39 @@
-![](https://komarev.com/ghpvc/?username=joselucasapp)
-<p align="center">
-  <a href="https://joselucasapp.com" target="blank"><img alt="Data Science" src="./Untitled design.png"></a>
-</p>
+# 👋 Hello I'm Lucas, Welcome to my GitHub!
 
-<p align="center">I would love if you cold give a look and a star to my new project</p>
-<p align="center">
+![](https://komarev.com/ghpvc/?username=joselucasapp)
+
+I'm a passionate software developer with a deep interest in new technologies — but I also love exploring older ones.  
+I enjoy working on challenging projects that push me to grow and expand my skill set.  
+Teaching others about the beauty and importance of programming is something I truly love.  
+For me, programming is not just a valuable professional skill, but also a powerful tool for creativity, enjoyment, and making everyday life better.
+
+## ⭐ Check out my latest project!
+
+<p>I would love it if you could take a look and leave a star!</p>
+
+<a href="https://zumbra-web.vercel.app/">Zumbra</a>
+<p>  
   <a href="https://github.com/joselucasapp/ZUMBRA-lang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZUMBRA-lang" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZUMBRA-lang" alt="ZUMBRA-lang repository" />
   </a>
 </p>
 
-I am a passionate software developer with a deep interest in new technologies, but i love to learn some old things, I enjoy working on projects that challenge me and allow me to grow my skillset, if you want to talk to me send an email.
-Teaching others about the beauty and importance of programming is something I truly love. It is not only a valuable skill for professional purposes but also a tool for enjoyment and enhancing everyday life.
+## 🛠️ My Tech Stack
 
-  - Brazilian
-  - Continuously improving my knowledge.
-  - Golang lover.
-  - Analysis and systems development student.
-  - You can see some of mine certifications here: <a target="blank" href="https://github.com/JoseLucasapp/Certifications">joselucasapp/certifications</a>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,nestjs,python,java,perl,go,php,elixir,cs,cpp" alt=""/>
+<div>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,nestjs,python,java,perl,go,php,elixir,cs,cpp" alt="Tech stack" />
 </div>
 
-<br />
+## 📊 GitHub Stats
 
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joselucasapp&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joselucasapp&theme=tokyonight" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joselucasapp&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joselucasapp&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joselucasapp&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joselucasapp&theme=tokyonight" alt="Profile details" width="100%" height="auto"></a>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joselucasapp&theme=tokyonight" alt="Most used languages" width="49%" height="auto">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joselucasapp&theme=tokyonight" alt="Repos per language" width="49%" height="auto">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joselucasapp&theme=tokyonight" alt="GitHub stats" width="49%" height="auto">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joselucasapp&theme=tokyonight" alt="Commit times" width="49%" height="auto">
+</div>

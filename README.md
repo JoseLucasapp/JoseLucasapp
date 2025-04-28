@@ -1,12 +1,5 @@
 # 👋 Hello I'm Lucas, Welcome to my GitHub!
 
-![](https://komarev.com/ghpvc/?username=joselucasapp)
-
-I'm a passionate software developer with a deep interest in new technologies — but I also love exploring older ones.  
-I enjoy working on challenging projects that push me to grow and expand my skill set.  
-Teaching others about the beauty and importance of programming is something I truly love.  
-For me, programming is not just a valuable professional skill, but also a powerful tool for creativity, enjoyment, and making everyday life better.
-
 ## ⭐ Check out my latest project!
 
 <p>I would love it if you could take a look and leave a star!</p>
@@ -17,6 +10,17 @@ For me, programming is not just a valuable professional skill, but also a powerf
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZUMBRA-lang" alt="ZUMBRA-lang repository" />
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=joselucasapp)
+
+I'm a passionate software developer with a deep interest in new technologies — but I also love exploring older ones.  
+I enjoy working on challenging projects that push me to grow and expand my skill set.  
+Teaching others about the beauty and importance of programming is something I truly love.  
+For me, programming is not just a valuable professional skill, but also a powerful tool for creativity, enjoyment, and making everyday life better.
+
+
+
+
 
 ## 🛠️ My Tech Stack
 

@@ -19,7 +19,11 @@ Teaching others about the beauty and importance of programming is something I tr
 For me, programming is not just a valuable professional skill, but also a powerful tool for creativity, enjoyment, and making everyday life better.
 
 
+<div align="center">
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=joselucasapp&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
 
 
 ## 🛠️ My Tech Stack
@@ -41,3 +45,4 @@ For me, programming is not just a valuable professional skill, but also a powerf
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joselucasapp&theme=tokyonight" alt="GitHub stats" width="49%" height="auto">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joselucasapp&theme=tokyonight" alt="Commit times" width="49%" height="auto">
 </div>
+

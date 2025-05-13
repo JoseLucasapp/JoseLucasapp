@@ -18,14 +18,6 @@ I enjoy working on challenging projects that push me to grow and expand my skill
 Teaching others about the beauty and importance of programming is something I truly love.  
 For me, programming is not just a valuable professional skill, but also a powerful tool for creativity, enjoyment, and making everyday life better.
 
-
-<div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=joselucasapp&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
-  
-</div>
-
-
 ## 🛠️ My Tech Stack
 
 <div>

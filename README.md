@@ -7,13 +7,13 @@
 <a href="https://zumbra-web.vercel.app/">Zumbra</a>
 <p>  
   <a href="https://github.com/joselucasapp/ZUMBRA-lang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZUMBRA-lang" alt="ZUMBRA-lang repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZUMBRA-lang&theme=tokyonight" alt="ZUMBRA-lang repository" />
   </a>
 </p>
 
 <p>  
   <a href="https://github.com/joselucasapp/okavangoide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=okavangoide" alt="OkavangoIDE repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=okavangoide&theme=tokyonight" alt="OkavangoIDE repository" />
   </a>
 </p>
 

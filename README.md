@@ -1,6 +1,6 @@
 # 👋 Hello I'm Lucas, Welcome to my GitHub!
 
-## ⭐ Check out my latest project!
+## ⭐ Check out my brand new projects!
 
 <p>I would love it if you could take a look and leave a star!</p>
 
@@ -8,6 +8,12 @@
 <p>  
   <a href="https://github.com/joselucasapp/ZUMBRA-lang">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZUMBRA-lang" alt="ZUMBRA-lang repository" />
+  </a>
+</p>
+
+<p>  
+  <a href="https://github.com/joselucasapp/okavangoide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=okavangoide" alt="OkavangoIDE repository" />
   </a>
 </p>
 

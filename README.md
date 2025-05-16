@@ -9,9 +9,8 @@
   <a href="https://github.com/joselucasapp/ZUMBRA-lang">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZUMBRA-lang&theme=tokyonight" alt="ZUMBRA-lang repository" />
   </a>
-</p>
-
-<p>  
+  &nbsp;
+  &nbsp;
   <a href="https://github.com/joselucasapp/okavangoide">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=okavangoide&theme=tokyonight" alt="OkavangoIDE repository" />
   </a>

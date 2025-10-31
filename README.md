@@ -2,10 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=joselucasapp)
 
-I'm a passionate software developer with a deep interest in new technologies, but I also love exploring older ones.  
-I enjoy working on challenging projects that push me to grow and expand my skill set.  
-Teaching others about the beauty and importance of programming is something I truly love.  
-For me, programming is not just a valuable professional skill, but also a powerful tool for creativity, enjoyment, and making everyday life better.
+I’m a passionate software engineer who loves building things that matter. I’m constantly exploring both new and classic technologies, because great ideas don’t age, they evolve.
+I thrive on challenging projects that push me to grow, experiment, and refine my craft. Beyond coding, I enjoy sharing knowledge and helping others discover the creativity and beauty hidden inside programming.
+For me, writing code isn’t just a career, it’s an art form, a playground for ideas, and a way to make life a little smarter (and a lot more fun).
 
 ## 🛠️ I already work with
 

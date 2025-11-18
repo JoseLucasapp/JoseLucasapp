@@ -33,6 +33,11 @@ For me, writing code isn’t just a career, it’s an art form, a playground for
   <a href="https://github.com/JoseLucasapp/Universal-terminal-file-viewer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=Universal-terminal-file-viewer&theme=tokyonight" alt="Universal-terminal-file-viewer repository" />
   </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://github.com/joselucasapp/zumbroide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZumbroIDE&theme=tokyonight" alt="ZumbroIDE repository" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats

@@ -42,9 +42,10 @@ For me, writing code isn’t just a career, it’s an art form, a playground for
 
 ## 📊 GitHub Stats
 
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joselucasapp&theme=tokyonight" alt="Profile details" width="100%" height="auto"></a>
+
 
 <div align="center">
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joselucasapp&theme=tokyonight" alt="Profile details" width="98.5%" height="auto"></a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joselucasapp&theme=tokyonight" alt="Most used languages" width="49%" height="auto">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joselucasapp&theme=tokyonight" alt="Repos per language" width="49%" height="auto">
 </div>

@@ -1,51 +1,45 @@
-# 👋 Hello I'm Lucas, Welcome to my GitHub!
+# 👋 Hey, I'm Lucas, welcome to my GitHub!
 
-![](https://komarev.com/ghpvc/?username=joselucasapp)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=joselucasapp" alt="Profile views" />
+</p>
 
-I’m a passionate software engineer who loves building things that matter. I’m constantly exploring both new and classic technologies, because great ideas don’t age, they evolve.
-I thrive on challenging projects that push me to grow, experiment, and refine my craft. Beyond coding, I enjoy sharing knowledge and helping others discover the creativity and beauty hidden inside programming.
-For me, writing code isn’t just a career, it’s an art form, a playground for ideas, and a way to make life a little smarter (and a lot more fun).
+I'm a software engineer passionate about building products, developer tools, and ideas that actually matter.
 
-## 🛠️ I already work with
+I enjoy working across both modern and low-level technologies, from full-stack web platforms to terminal apps, compilers, and systems-oriented projects. For me, programming is more than a profession, it is a way to turn ideas into real things, solve meaningful problems, and keep pushing my own limits.
+
+I’m especially interested in:
+- building useful products with strong technical foundations
+- exploring unconventional and creative software ideas
+- learning by making
+- sharing what I discover along the way
+
+## 🛠️ Tech I work with
 
 <div>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,nestjs,python,java,perl,go,php,elixir,cs,cpp,rust" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,nestjs,python,java,perl,go,php,elixir,c,cpp,cs,rust" alt="Tech stack" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🚀 Highlight Projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joselucasapp&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### [ZUMBRA-lang](https://github.com/joselucasapp/ZUMBRA-lang)
+A language-focused project exploring compiler and language design ideas.
 
-## 🗂️ Highlight Projects
+### [Petch](https://github.com/joselucasapp/petch)
+A tiny terminal virtual pet written in C, with persistence, mood, levels, and shell integration.
 
-<p>  
-  <a href="https://github.com/joselucasapp/ZUMBRA-lang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZUMBRA-lang&theme=tokyonight" alt="ZUMBRA-lang repository" />
-  </a>
-  &nbsp;
-  &nbsp;
-  <a href="https://github.com/joselucasapp/petch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=petch&theme=tokyonight" alt="Petch repository" />
-  </a>
-</p>
+### [Universal Terminal File Viewer](https://github.com/joselucasapp/Universal-terminal-file-viewer)
+A terminal-based tool focused on viewing files in a practical and flexible way.
 
-<p>  
-  <a href="https://github.com/JoseLucasapp/Universal-terminal-file-viewer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=Universal-terminal-file-viewer&theme=tokyonight" alt="Universal-terminal-file-viewer repository" />
-  </a>
-  &nbsp;
-  &nbsp;
-  <a href="https://github.com/joselucasapp/zumbroide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=ZumbroIDE&theme=tokyonight" alt="ZumbroIDE repository" />
-  </a>
-</p>
+### [ZumbroIDE](https://github.com/joselucasapp/zumbroide)
+An experimental IDE/editor project connected to the ZUMBRA ecosystem.
 
 ## 📊 GitHub Stats
 
-
-
 <div align="center">
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joselucasapp&theme=tokyonight" alt="Profile details" width="98.5%" height="auto"></a>
+  <a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joselucasapp&theme=tokyonight" alt="Profile details" width="98.5%" height="auto">
+  </a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joselucasapp&theme=tokyonight" alt="Most used languages" width="49%" height="auto">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joselucasapp&theme=tokyonight" alt="Repos per language" width="49%" height="auto">
 </div>
@@ -54,3 +48,21 @@ For me, writing code isn’t just a career, it’s an art form, a playground for
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joselucasapp&theme=tokyonight" alt="GitHub stats" width="49%" height="auto">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joselucasapp&theme=tokyonight" alt="Commit times" width="49%" height="auto">
 </div>
+
+## 💡 What you'll find here
+
+On this GitHub, you'll find a mix of:
+
+- full-stack applications
+- backend systems
+- developer tools
+- terminal-based software
+- experimental projects
+- language and compiler ideas
+- things built for learning, fun, and real-world impact
+
+## 🤝 Let’s connect
+
+I’m always interested in great ideas, ambitious projects, and interesting technical challenges.
+
+If you're building something cool, or just want to talk about software, systems, tools, or product ideas, feel free to connect.

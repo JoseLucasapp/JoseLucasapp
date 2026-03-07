@@ -24,8 +24,8 @@ For me, writing code isn’t just a career, it’s an art form, a playground for
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://github.com/joselucasapp/okavangoide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=okavangoide&theme=tokyonight" alt="OkavangoIDE repository" />
+  <a href="https://github.com/joselucasapp/petch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselucasapp&repo=petch&theme=tokyonight" alt="Petch repository" />
   </a>
 </p>
 

@@ -5,6 +5,7 @@
 </p>
 
 [![committers.top badge](https://user-badge.committers.top/brazil_public/JoseLucasapp.svg)](https://user-badge.committers.top/brazil_public/JoseLucasapp)
+[![committers.top badge](https://user-badge.committers.top/brazil/JoseLucasapp.svg)](https://user-badge.committers.top/brazil/JoseLucasapp)
 
 I'm a software engineer passionate about building products, developer tools, and ideas that actually matter.
 

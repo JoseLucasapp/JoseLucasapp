@@ -4,6 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=joselucasapp" alt="Profile views" />
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/brazil_public/JoseLucasapp.svg)](https://user-badge.committers.top/brazil_public/JoseLucasapp)
+
 I'm a software engineer passionate about building products, developer tools, and ideas that actually matter.
 
 I enjoy working across both modern and low-level technologies, from full-stack web platforms to terminal apps, compilers, and systems-oriented projects. For me, programming is more than a profession, it is a way to turn ideas into real things, solve meaningful problems, and keep pushing my own limits.
